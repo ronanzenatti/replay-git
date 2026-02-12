@@ -9,3 +9,9 @@ Adiciona o e-mail do desenvolvedor:
 ```bash
 git config --global user.email ronanzenatti@gmail.com
 ```
+
+## Comando Git
+INIT
+ADD
+STATUS
+COMMIT
